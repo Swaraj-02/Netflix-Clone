@@ -1,0 +1,349 @@
+/* media query for 1450px size  */
+
+@media screen and (max-width:1450px) {
+    h1 {
+        font-size: 3.2rem;
+        width: 90%;
+    }
+
+    h3 {
+        width: 70%;
+        font-size: 2rem;
+    }
+
+    .question {
+        left: -200px;
+    }
+
+    /* membership section  */
+
+    .membership {
+        left: -260px;
+
+    }
+
+    .btn2 {
+        left: -260px;
+    }
+}
+
+/* media query for 1200px size  */
+@media only screen and (max-width: 1200px) {
+
+    .card-img {
+        width: 400px;
+    }
+
+    h5 {
+        font-size: 1.1rem;
+        width: 100%;
+    }
+
+    .question {
+        left: -180px;
+    }
+
+    /* membership section  */
+
+    .membership {
+        left: -160px;
+
+    }
+
+    .btn2 {
+        left: -160px;
+    }
+
+}
+
+/* media query for 1024px size  */
+@media only screen and (max-width: 1024px) {
+    h1 {
+        font-size: 3rem;
+        width: 100%;
+    }
+
+    h3 {
+        width: 100%;
+        font-size: 1.8rem;
+    }
+
+    h4 {
+        width: 100%;
+        font-size: 1.1rem;
+    }
+
+    .card-img {
+        width: 350px;
+    }
+
+
+    h5 {
+        font-size: 1rem;
+        width: 100%;
+    }
+
+    .card-para {
+        width: 110%;
+        font-size: 0.9rem;
+    }
+
+    .question {
+        left: -150px;
+    }
+
+    /* membership section  */
+
+    .membership {
+        left: -100px;
+
+    }
+
+    .btn2 {
+        left: -100px;
+    }
+
+}
+
+/* media query for 768px size  */
+@media only screen and (max-width: 768px) {
+    .main-section {
+        height: 98vh;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        width: 100%;
+    }
+
+    h3 {
+        width: 100%;
+        font-size: 1.5rem;
+    }
+
+    h4 {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .start-btn {
+        flex-wrap: wrap;
+    }
+
+    .email-input {
+        padding: 20px;
+    }
+
+    .content-box {
+        height: 400px;
+        width: 80%;
+    }
+
+    .box {
+        padding: 100px;
+
+    }
+
+    h5 {
+        font-size: 1rem;
+        width: 100%;
+    }
+
+    .card-para {
+        width: 110%;
+        font-size: 0.9rem;
+    }
+
+    .question {
+        left: -150px;
+    }
+
+    /* membership section  */
+
+    .membership {
+        left: 20px;
+
+    }
+
+    .btn2 {
+        left: 20px;
+
+    }
+
+}
+
+/* media query for 624px size  */
+@media only screen and (max-width:624px) {
+
+
+    .netflix-logo {
+        width: 160px;
+        padding-left: 10px;
+
+    }
+
+    .sign-in {
+        width: 60px;
+        font-size: 0.7rem;
+        padding: 8px;
+    }
+
+    .email-input {
+        padding: 20px;
+        width: 100%;
+    }
+
+    .email-btn {
+        font-size: 1.1rem;
+        padding: 12px;
+    }
+
+    .right-arrow {
+        width: 30px;
+        margin-left: 10px;
+    }
+
+    .box {
+        padding: 50px;
+
+    }
+
+    .question {
+        /* width: 100%; */
+        left: -10px;
+        font-size: 2rem;
+    }
+
+    /* membership section  */
+
+    .membership {
+        left: 0px;
+        margin: 15px 0;
+        width: 80%;
+
+    }
+
+    .btn2 {
+        left: 0px;
+
+    }
+
+    .footer-p {
+        left: 0;
+        margin: 50px 0px;
+    }
+
+    .language2 {
+        left: 20px;
+
+    }
+
+    /* for english language  */
+    span {
+        display: none;
+    }
+
+}
+
+/* media query for 500px size  */
+@media only screen and (max-width:500px) {
+    .prime-box {
+        margin: 50px 40px;
+    }
+
+    h1 {
+        font-size: 2.1rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+    }
+
+
+    .email-input {
+        padding: 20px;
+        width: 100%;
+    }
+
+    .card-img {
+        width: 280px;
+
+    }
+
+    .box {
+        height: 350px;
+        padding: 15px;
+
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+
+    .card-para {
+        width: 100%;
+    }
+
+    .question {
+        /* width: 100%; */
+        left: 0;
+        font-size: 1.6rem;
+    }
+
+    .question-items {
+
+        font-size: 1.1rem;
+        /* border: 1px solid red; */
+        padding: 15px;
+        width: 80%;
+    }
+
+    .plus {
+        font-size: 1.5rem;
+    }
+
+    .question-section,
+    .email-input {
+        width: 300px;
+    }
+
+    .question-section,
+    .email-btn {
+        font-size: 1rem;
+    }
+
+    .question-section,
+    .right-arrow {
+        width: 30px;
+
+    }
+
+
+
+    /* membership section  */
+
+    .btn2 {
+        padding-left: 40px;
+        width: 100%;
+
+    }
+
+    .footer-p {
+        left: 0;
+        margin: 50px -10px;
+    }
+
+    .language2 {
+        left: 20px;
+
+    }
+
+    .linkbox {
+        font-size: 0.9rem;
+
+    }
+}
